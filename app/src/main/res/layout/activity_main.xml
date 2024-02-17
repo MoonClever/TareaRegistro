@@ -66,7 +66,7 @@
         android:id="@+id/tvApellido"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Apellido"
+        android:text="Apellidos"
         android:layout_marginTop="15dp"
         style="@style/CompTextView"
         app:layout_constraintStart_toStartOf="@id/glStart"
